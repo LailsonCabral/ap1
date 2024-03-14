@@ -1,7 +1,7 @@
 # AP1 IMPACTA
 (Atividade P1 realizada em sala de aula)
 <h3>• Print da execução do Swagger no FastAPI</h3>
-<img src='swager.jpg'>
+<img src='swagger.jpg'>
 <h3>• Print do banco com um usuario cadastrado</h3>
 <img src='bdusuarios.jpg'>
 <h3>• Print do banco com produtos cadastrados</h3>
